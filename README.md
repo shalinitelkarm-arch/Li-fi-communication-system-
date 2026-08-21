@@ -1,1 +1,4 @@
-LiFi (Light Fidelity) is a wireless communication technology that uses visible light to transmit data. In this project, a mobile torch acts as the transmitter and an LDR module acts as the receiver. Arduino UNO processes the received signals and displays the transmitted data on an LCD. The project demonstrates secure and fast data transmission using light. Li-fi-communication-system-
+LiFi (Light Fidelity) is a wireless communication system that uses visible light to transmit data. The project demonstrates data transmission using a mobile torch as the transmitter and an LDR as the receiver.
+Components Used: Arduino UNO, mobile torch, LDR module, LCD display, resistor, breadboard and jumper wires.
+Working: The torch produces light signals carrying data. The LDR detects these signals and sends them to Arduino UNO, which processes the data and displays the output on the LCD.
+Applications: Indoor communication, smart lighting, hospitals, offices, educational institutions and secure data transmission.
